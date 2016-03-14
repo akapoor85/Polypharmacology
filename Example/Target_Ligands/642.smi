@@ -1,0 +1,16 @@
+CC[C@H]1N(C2CCCC2)c2nc(Nc3ccc(cc3OC)C(=O)NC3CCN(C)CC3)ncc2N(C)C1=O 25121
+CN[C@@H]1CC2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4CNC(=O)c4c4c5ccccc5n2c4c13 50059889
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl 4552
+CO[C@H]1[C@@H](C[C@H]2O[C@@]1(C)n1c3ccccc3c3c4CNC(=O)c4c4c5ccccc5n2c4c13)N(C)C(=O)c1ccccc1 50423656
+Fc1ccc(Nc2ncnc3cc(OCCCN4CCOCC4)c(NC(=O)C=C)cc23)cc1Cl 4779
+CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C2/C(=O)Nc3ccc(F)cc23)c1C 4814
+C[C@]12O[C@@H](C[C@@]1(O)CO)n1c3ccccc3c3c4C(=O)NCc4c4c5ccccc5n2c4c13 50423773
+COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)NC4=CCC(F)C=C4)cc3F)ccnc2cc1OCCCN1CCOCC1 50355504
+Cc1[nH]c(\C=C2/C(=O)Nc3ccc(cc23)S(=O)(=O)Cc2c(Cl)cccc2Cl)c(C)c1C(=O)N1CCC[C@@H]1CN1CCCC1 50242737
+CN1CCN(CC1)c1cc(Nc2cc(C)n[nH]2)nc(Sc2ccc(NC(=O)C3CC3)cc2)n1 13534
+COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1 21
+COc1cc(ccc1Nc1ncc(Cl)c(Nc2ccccc2S(=O)(=O)C(C)C)n1)N1CCC(CC1)N1CCN(C)CC1 50242742
+Cc1[nH]c(\C=C2/C(=O)Nc3ccc(F)cc23)c(C)c1C(=O)NC[C@H](O)CN1CCOCC1 31095
+CNC(=O)c1ccccc1Sc1ccc2c(\C=C\c3ccccn3)n[nH]c2c1 25117
+CN1CCN(CC1)c1ccc2nc([nH]c2c1)-c1c(N)c2c(F)cccc2[nH]c1=O 25118
+O=C(N1CCNCC1)c1ccc(\C=C\c2n[nH]c3ccccc23)cc1 50355496

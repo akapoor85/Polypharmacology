@@ -1,0 +1,1100 @@
+Target_ID	No_of_Ligands	Target_Name(s)
+1	15	amp-activated protein kinase, alpha-2 subunit
+2	337	gag polyprotein	thyroid hormone receptor (tr-alpha)
+3	62	cam kinase ii alpha	cam kinase ii	camk2a
+4	501	npy2r
+5	1060	aldose reductase (alr2) mutant (c298a/w219y)	aldose reductase (alr2)	aldose reductase
+6	1869	syk protein	tyrosine-protein kinase syk	tyrosine kinase syk
+7	155	cysltr1
+8	19	5-lipoxygenase
+9	384	beta-lactamase tem	beta-lactamase tem-125	beta lactamase
+10	135	synaptic vesicular amine transporter
+11	28	cytochrome p450 51
+12	567	bradykinin b2 receptor
+13	695	protein kinase b (akt 2)
+14	70	c-jun n-terminal kinase 3	c-jun n-terminal kinase 3 (jnk3)
+15	463	dna-dependent protein kinase catalytic subunit	dna-dependent protein kinase
+16	21	phosphodiesterase type 7 (pde7b)	phosphodiesterase 7b
+17	10	folate receptor alpha
+18	57	carbonic anhydrase iii
+19	97	mitogen- and stress-activated protein kinase 1 (msk1)
+20	100	free fatty acid receptor 1
+21	113	complement c1
+22	26	complement c3
+23	184	neuropeptides b/w receptor 1
+24	293	cgmp-dependent protein kinase
+25	1085	sigma1-receptor	sigma-1	sigma
+26	98	deoxycytidine kinase
+27	122	lysophosphatidic acid receptor edg-2
+28	129	htr1e	serotonin receptor 1e
+29	1003	rho-associated protein kinase 2	rho-kinase (rock ii)	rho kinase 2	rho-associated, coiled-coil containing protein kinase 2
+30	31	estrogen-related receptor beta
+31	2801	phosphodiesterase type 10 (pde10a)	phosphodiesterase 10a	phosphodiesterase 10a (pde10a)	camp and camp-inhibited cgmp 3',5'-cyclic phosphodiesterase 10a	phosphodiesterase 10a1
+32	40	choline acetylase	choline acetyltransferase
+33	196	grik1	glutamate receptor ionotropic kainate 1
+34	14	dna-directed rna polymerase beta chain	rna polymerase beta subunit (ec 2.7.7.6)
+35	281	acetyl-coa carboxylase 1 (acc1)	acetyl-coa carboxylase 1	acetyl-coenzyme a carboxylase
+36	667	tyrosine kinase c-kit mutant (v559d)	tyrosine-protein kinase kit	tyrosine kinase c-kit	tyrosine kinase c-kit mutant (v559d/t670i)	tyrosine kinase c-kit mutant (n822k)	proto-oncogene c-kit (v654a)	proto-oncogene c-kit (t670i)
+37	169	tubulin alpha-3 chain	tubulin alpha-1 chain	tubulin
+38	1045	tyrosine kinase flt3 mutant (d835h)	tyrosine kinase flt3	tyrosine kinase flt3 mutant (n841i)	tyrosine kinase flt3 mutant (d835y)	receptor-type tyrosine-protein kinase flt3 (k663q)	receptor-type tyrosine-protein kinase flt3 (d835h)	receptor-type tyrosine-protein kinase flt3 (n841i)	tyrosine-protein kinase receptor flt3	receptor-type tyrosine-protein kinase flt3	receptor-type tyrosine-protein kinase flt3 (d835y)
+39	675	tyrosine-protein kinase abl	abl mutant (t315i)	abl mutant (t315n)	abl mutant (f359v)	abl mutant (h396p)	tyrosine-protein kinase abl1 (g250e)	tyrosine-protein kinase abl1 (t315i)	tyrosine-protein kinase abl1	abl1	abl mutant (m351t)	abl mutant (e255k)	abl	abl mutant (y253f)	abl mutant (q252h)	tyrosine-protein kinase abl1 (e255k)
+40	136	erbb-2 (her2) tyrosine kinase
+41	28	5-ht5b
+42	16	receptor tyrosine-protein kinase erbb-3
+43	42	organic anion transporter oatp1b3
+44	76	protein kinase c beta	protein kinase c, beta i	protein kinase c, beta ii
+45	1665	dihydrofolate reductase
+46	21	atp-binding cassette sub-family a member 1
+47	14	3-beta-hydroxysteroid dehydrogenase/delta 5-->4-isomerase type i
+48	76	niemann-pick c1-like protein 1
+49	1473	cyclin-dependent kinase 2 (cdk2) mutant (f82h/l83v/h84d)	cyclin-dependent kinase 2 (cdk2) mutant (k89t)	cyclin-dependent kinase 2 (cdk2) mutant (l83v/h84d)	cyclin-dependent kinase 2 (cdk2) mutant (f82h)	cyclin-dependent kinase 2 (cdk2)	cyclin-dependent kinase 2 (cdk2) mutant (f82h/l83v/h84d/k89t)
+50	21	nitric-oxide synthase, brain	nitric oxide synthase, brain mutant (d597n/m336v)
+51	21	heat shock 70kda protein 1
+52	82	somatostatin receptor 3	sstr3
+53	729	somatostatin receptor 2
+54	270	adenosine deaminase
+55	155	3-beta-hydroxysteroid-delta(8),delta(7)-isomerase
+56	247	inhibitor of nuclear factor kappa b kinase alpha subunit	i-kappa-b kinase 1 (ikk-alpha)
+57	1370	neutrophil elastase	leukocyte elastase	neutrophil elastase (ne)
+58	57	human herpesvirus 5 dna polymerase	dna polymerase
+59	20	d-amino-acid oxidase
+60	210	prostanoid ip receptor	ptgir
+61	161	12-lipoxygenase (12-lox)	arachidonate 12-lipoxygenase
+62	130	serotonin 3a (5-ht3a) receptor	htr3a
+63	849	tyrosine-protein kinase src	src	src mutant (s345c)	src mutant (t338m)	src mutant (s345c/t338m)
+64	12	br serine/threonine-protein kinase 1	brsk1
+65	1698	glycogen synthase kinase-3, beta	glycogen synthase kinase-3 beta (gsk3b)	glycogen synthase kinase 3 beta	glycogen synthase kinase-3 beta
+66	417	cox-1	cyclooxygenase-1
+67	2792	cox-2	cyclooxygenase-2	cyclooxygenase-2 (cox-2)
+68	58	brain adenylate cyclase 1	adenylate cyclase type i
+69	85	histone deacetylase 5 (hdac5)	histone deacetylase 5
+70	26	transient receptor potential cation channel subfamily v member 4
+71	144	carboxylesterase 2	carboxylesterase 2 (intestine, liver)
+72	817	hmg-coa reductase	3-hydroxy-3-methylglutaryl-coenzyme a reductase
+73	251	carboxylesterase 1	acyl coenzyme a:cholesterol acyltransferase
+74	122	nociceptin/orphanin fq, nop receptor	nociceptin receptor
+75	42	pregnane x receptor
+76	1032	neprilysin	neutral endopeptidase (nep)
+77	17	ldl receptor
+78	1513	protein-tyrosine phosphatase 1b (ptp1b)	protein-tyrosine phosphatase 1b (ptp1b) mutant (m114v)	protein-tyrosine phosphatase 1b (ptp1b) mutant (g117e)	protein-tyrosine phosphatase 1b (ptp1b) mutant (v113l/m114v)	protein-tyrosine phosphatase 1b (ptp1b) mutant (v113i)	protein-tyrosine phosphatase 1b
+79	311	mu-opioid receptor	mu opioid receptor	mu-type opioid receptor	oprm1
+80	975	thromboxane synthase	thromboxane-a synthase	thromboxane a2 synthase (p450 txa2)
+81	74	ceramide glucosyltransferase
+82	1367	tyrosine-protein kinase lck	lck
+83	60	adenylate cyclase	adenylate cyclase type ii
+84	16	o-acetylserine sulfhydrylase
+85	14	cyclin-dependent kinase 8 (cdk8)
+86	232	carbonic anhydrase xiii	carbonic anhydrase 13 (ca xiii)
+87	41	indolethylamine n-methyltransferase
+88	21	dihydrofolate reductase-thymidylate synthase (dhfr-ts)
+89	354	alpha-1d adrenergic receptor
+90	812	nitric oxide synthase, inducible	nitric oxide synthase (inos)	inos
+91	280	transient receptor potential cation channel subfamily m member 8	transient receptor potential m8 protein
+92	344	t-cell protein-tyrosine phosphatase (tcptp)	t-cell protein-tyrosine phosphatase	t-cell protein-tyrosine phosphatase (tcptp) mutant (v121l)
+93	35	vascular endothelial growth factor receptor 1
+94	97	pituitary adenylate cyclase-activating polypeptide type i receptor
+95	243	vascular endothelial growth factor receptor 3	vegfr-3 (flt4)	tyrosine-protein kinase receptor flt4
+96	97	vascular endothelial growth factor receptor 2
+97	30	sodium/potassium-transporting atpase alpha-1 chain
+98	14	glucose transporter	solute carrier family 2, facilitated glucose transporter member 1
+99	19	naaladase ii
+100	81	lim domain kinase 2
+101	182	integrase	protease	hiv-1 isolate wt-control pol protein (cndo control strain)	hiv wt-b pol protein (wild-type clade b)	gag-pol polyprotein (capsid protein)
+102	73	lim domain kinase 1
+103	121	fibroblast activation protein (fap)	fibroblast activation protein alpha	seprase (fap)
+104	795	histamine h4 receptor	hrh4
+105	45	phosphodiesterase type 9 (pde9a)	phosphodiesterase 9a2
+106	104	tyrosine-protein kinase fyn	fyn
+107	4464	thrombin
+108	219	histone deacetylase 4 (hdac4) mutant (h976y)	histone deacetylase 4 (hdac4)	histone deacetylase 4
+109	14	carnitine o-palmitoyltransferase 1, liver isoform
+110	1695	estrogen receptor (er-beta)
+111	90	testis-specific androgen-binding protein
+112	15	xanthine dehydrogenase/oxidase (xo)
+113	75	catechol o-methyltransferase	catechol-o-methyltransferase
+114	73	p-selectin
+115	460	mitogen-activated protein kinase 9 (jnk2)	mitogen-activated protein kinase 9
+116	682	p-glycoprotein 1
+117	205	protein kinase b (akt 3)
+118	61	p-glycoprotein 3
+119	57	glutamate-kainate 7	glutamate receptor ionotropic kainate 3
+120	812	angiotensin ii, central	angiotensin ii at2
+121	139	15-lipoxygenase-1 (15-lox-1)
+122	57	proto-oncogene tyrosine-protein kinase ros
+123	44	sarcoplasmic/endoplasmic reticulum calcium atp-ase	sarcoplasmic/endoplasmic reticulum calcium atpase 1	sarco/endoplasmic reticulum ca2+ atpase 1
+124	2292	ednra	endothelin receptor et-a
+125	1346	ednrb	endothelin receptor et-b	endothelin b receptor
+126	119	trka
+127	17	major prion protein
+128	455	dopamine receptor d2	dopamine d2 receptor
+129	108	muscarinic receptor 4	muscarinic acetylcholine receptor m4	cholinergic receptor, muscarinic 4	chrm4
+130	47	methylthioadenosine nucleosidase(mtan)	methylthioadenosine nucleosidase (mtan)
+131	104	phosphodiesterase type 3 (pde3b)	phosphodiesterase 3b
+132	1213	cathepsin d
+133	56	cathepsin e
+134	11	canalicular multispecific organic anion transporter 1	export pump, abcc2
+135	55	elastase 2a
+136	40	ppp5c protein
+137	27	phosphodiesterase type 1 (pde1b)
+138	3057	egf-r tyrosine kinase
+139	29	plasminogen activator urokinase
+140	53	ephrin type-a receptor 3 (epha3)	tyrosine kinase epha3	ephrin type-a receptor 3
+141	42	glyoxalase i
+142	190	fgfr-2 tyrosine kinase	fgfr2
+143	412	histamine h2 receptor	hrh2
+144	28	gaba a alpha4beta2gamma2
+145	702	plasmin	plasminogen
+146	31	dihydropteroate synthase
+147	229	tyrosine-protein kinase receptor ret	ret
+148	2896	72 kda type iv collagenase	matrix metalloproteinase-2 (mmp-2)	matrix metalloproteinase-2
+149	126	dihydrofolate reductase-thymidylate synthase (dhfr-ts) mutant v1/s	dihydrofolate reductase-thymidylate synthase (dhfr-ts) mutant kicb1
+150	28	phosphodiesterase 1a
+151	40	phosphodiesterase 1c
+152	14	imipenem-hydrolyzing beta-lactamase	imi-1
+153	459	nr2b channel blocker	retinoid x receptor alpha
+154	3175	gpr24	melanin-concentrating hormone receptor 1 (mch1r)	melanin-concentrating hormone receptor 1
+155	355	egl nine homolog 1
+156	90	egl nine homolog 3
+157	46	triacylglycerol hydrolase
+158	87	5-ht5	serotonin 5a (5-ht5a) receptor	htr5a
+159	110	histone deacetylase 10 (hdac10)
+160	199	5-ht2
+161	19	5-ht1
+162	57	sps1/ste20-related protein kinase ysk4
+163	145	glutathione s-transferase	glutathione s-transferase mu 1
+164	12	pka	camp-dependent protein kinase beta-1 catalytic subunit
+165	623	tyrosine-protein kinase tie-2	tie-2	tyrosine-protein kinase receptor (tie-2)	protein-tyrosine kinase tie2
+166	16	cholinergic, nicotinic muscle	neuronal acetylcholine receptor protein alpha-9 subunit
+167	604	sodium channel protein type ix alpha subunit
+168	239	protein tyrosine phosphatase, non-receptor type 7 isoform 2	protein-tyrosine phosphatase lc-ptp
+169	413	coagulation factor x	factor xa (fxa)
+170	102	glutamate [nmda] receptor subunit epsilon 3
+171	352	glutamate [nmda] receptor subunit epsilon 2	nr2b
+172	16	glutamate [nmda] receptor subunit epsilon 1
+173	310	fructose-1,6-bisphosphatase
+174	45	s-adenosylmethionine decarboxylase 1
+175	518	ptger1	prostanoid ep1 receptor
+176	1077	matrix metalloproteinase-9 (mmp-9)	matrix metalloproteinase 9
+177	37	ptger3
+178	75	potassium inwardly-rectifying channel, subfamily j, member 1	potassium channel (atp modulatory)
+179	92	pdgfr-beta
+180	32	4-hydroxyphenylpyruvate dioxygenase
+181	104	15-lipoxygenase
+182	60	ephrin type-a receptor 2
+183	33	ephrin type-a receptor 1	epha1
+184	37	ephrin type-a receptor 6
+185	26	ephrin type-a receptor 7
+186	169	carbonic anhydrase 6 (ca vi)	carbonic anhydrase vi
+187	27	ephrin type-a receptor 5	epha5
+188	53	pyruvate kinase
+189	38	scavenger receptor class b member 1
+190	68	tgf-beta receptor type i	tgf-beta receptor type-1
+191	111	carbepenem-hydrolyzing beta-lactamase kpc	beta-lactamase (kpc-2)
+192	14	aldehyde oxidase
+193	26	class 1 phosphodiesterase pdeb1
+194	215	acyl cholesterol acyltransferase 1 (acat-1)
+195	68	geranylgeranyl diphosphate synthase (ggpps)
+196	125	neuronal acetylcholine receptor protein alpha-3 subunit	cholinergic, nicotinic alpha3beta4	cholinergic, nicotinic alpha3beta4x	cholinergic, nicotinic alpha3beta2
+197	1289	monoamine oxidase type a (mao-a)	monoamine oxidase a
+198	562	protein kinase c, delta
+199	718	sstr1	somatostatin receptor
+200	43	sstr5
+201	638	sstr4
+202	10	ptgdr
+203	94	gaba a alpha2beta1gamma2	gaba a alpha2	gaba receptor alpha-2 subunit
+204	23	tyrosine-protein kinase abl (e255v)	abl1(q252h)	tyrosine-protein kinase abl (y253h)	tyrosine-protein kinase (abl) q252h	tyrosine-protein kinase (abl) y252f
+205	693	3-phosphoinositide-dependent protein kinase 1 (pdk1) mutant (v143t)	3-phosphoinositide-dependent protein kinase 1 (pdk1)	3-phosphoinositide-dependent protein kinase 1 (pdk1) mutant (l159m)	3-phosphoinositide-dependent protein kinase 1 (pdk1) mutant (e166d)	3-phosphoinositide-dependent protein kinase 1 (pdk1) mutant (a162v)	3-phosphoinositide-dependent protein kinase 1 (pdk1) mutant (v143t/t222a)	3-phosphoinositide-dependent protein kinase 1 (pdk1) mutant (t222a)
+206	26	herg	potassium voltage-gated channel subfamily h member 2 (herg)
+207	48	6-o-methylguanine-dna methyltransferase
+208	230	xanthine dehydrogenase
+209	16	beta-lactamase shv-1	beta-lactamase shv-55	shv-5 extended spectrum beta-lactamase	beta-lactamase shv-5	beta-lactamase shv-11
+210	20	mitogen-activated protein kinase kinase 6 (mkk6)
+211	54	hypoxanthine-guanine phosphoribosyltransferase (hgprt)
+212	33	glycine receptor alpha-1 chain	glycine receptor subunit alpha-1	glycine, strychnine	glycine, non-strychnine
+213	130	neuromedin b	nmbr
+214	274	c-c chemokine receptor type 4 (ccr4)	c-c chemokine receptor type 4
+215	19	threonine--trna ligase
+216	4689	cnr1	cannabinoid receptor 1
+217	224	transcription factor stat3	signal transducer and activator of transcription 3
+218	15	tssk1
+219	199	urokinase (upa) mutant (s190a)	urokinase (upa)	urokinase-type plasminogen activator
+220	25	bone morphogenetic protein receptor type-2
+221	435	cholecystokinin b	cholecystokinin b receptor	cckbr
+222	44	grm8	metabotropic glutamate receptor 8
+223	28	peptidyl-glycine alpha-amidating monooxygenase
+224	771	mineralocorticoid receptor	mineralocorticoid receptor (mr)
+225	52	grm6
+226	11	adenosine receptor a2a (n181d)	adenosine receptor a2a (q89d)	adenosine receptor a2a (t88d)
+227	562	mek-1	dual specificity mitogen-activated protein kinase kinase 1
+228	3297	dipeptidyl peptidase iv	dipeptidyl peptidase iv (dpp-iv)
+229	617	dopamine d3 receptor	d(3) dopamine receptor
+230	1290	human immunodeficiency virus type 1 reverse transcriptase	hiv-1 reverse transcriptase chain a	hiv-1 reverse transcriptase rnase h
+231	85	htr1d
+232	141	htr1f
+233	196	phosphodiesterase type 3 (pde3a)
+234	1760	type-1 angiotensin ii receptor (at1)	angiotensin ii type 1a (at-1a) receptor	agtr1
+235	79	htr1a	serotonin 1a (5-ht1a) receptor
+236	15	htr1b
+237	39	ephb2	ephrin type-b receptor 2	eph receptor b2
+238	35	glutathione reductase
+239	252	ephb4	ephrin type-b receptor 4	ephrin type-b receptor 4 (ephb4)	tyrosine kinase ephb4
+240	39	g protein-coupled receptor 80
+241	333	telomerase reverse transcriptase
+242	263	t-plasminogen activator (tpa)
+243	2289	acetyl-coa carboxylase 2	acetyl-coa carboxylase 2 (acc2)
+244	781	mtnr1a	melatonin receptor type 1 (mt1)
+245	10	modulator of drug activity a
+246	18	cholinergic, nicotinic alpha6beta3beta4alpha5	neuronal acetylcholine receptor protein beta-4 subunit
+247	127	sucrase-isomaltase
+248	970	atp-binding cassette, sub-family c, member 1 isoform 1	multidrug resistance-associated protein 1
+249	889	fgfr-1 tyrosine kinase	fgfr1
+250	1850	tyrosine-protein kinase jak2
+251	1385	tyrosine-protein kinase jak3
+252	1320	tyrosine-protein kinase jak1
+253	58	ecdysone receptor
+254	12	human herpesvirus 6 dna polymerase
+255	59	hrh3	histamine h3l
+256	1621	hrh1	histamine h1 receptor
+257	95	serotonin 1d (5-ht1d) receptor
+258	401	trypsin ii
+259	35	aldehyde reductase (alr1)	aldehyde reductase
+260	99	type-1 angiotensin ii receptor
+261	11	anoctamin-1
+262	10	fatty acid desaturase 1
+263	169	plasminogen activator inhibitor-1	plasminogen activator inhibitor 1 (pai-1)
+264	10	prostaglandin g/h synthase 2
+265	156	prostanoid fp receptor	ptgfr	prostaglandin f2-alpha receptor
+266	1991	trypsin i	trypsin
+267	48	acidic alpha-glucosidase
+268	47	tyrosine kinase frk
+269	33	multidrug and toxin extrusion protein 1
+270	76	neuropeptide ff receptor 2	npff2
+271	12	multidrug and toxin extrusion protein 2
+272	13	dihydroorotate dehydrogenase (dhodh) mutant (r265a)
+273	1268	neuronal acetylcholine receptor protein alpha-7 subunit	neuronal acetylcholine receptor subunit alpha-7	neuronal acetylcholine receptor (alpha7 nachr)
+274	395	beta-1 adrenergic receptor	adrb1
+275	488	thyroid hormone receptor (tr-beta)	thyroid hormone receptor beta-1
+276	140	hypoxia-inducible factor 1-alpha
+277	32	cytochrome p450 2b6
+278	1607	hepatocyte growth factor receptor
+279	287	platelet-derived growth factor receptor alpha (pdgfr alpha)	platelet-derived growth factor receptor alpha
+280	22	tyrosyl-trna synthetase
+281	90	angiotensin-converting enzyme 2
+282	211	protein kinase c eta	protein kinase c, eta
+283	49	excitatory amino acid eaat3	excitatory amino acid transporter 3
+284	10	gaba receptor gamma-1 subunit
+285	46	excitatory amino acid eaat1	excitatory amino acid transporter 1
+286	17	cam kinase ii gamma	camk2g
+287	36	disks large homolog 4
+288	18	activating transcription factor 1
+289	67	protein-tyrosine phosphatase shp-1
+290	170	endothelial pas domain-containing protein 1
+291	647	neuromedin-k receptor (nk3)
+292	1109	ghrelin receptor	growth hormone secretagogue receptor type 1
+293	132	photoreceptor-specific nuclear receptor
+294	953	neurokinin 2 receptor	tacr2
+295	242	cytosolic phospholipase a2
+296	3595	carbonic anhydrase 2 (ca ii)	carbonic anhydrase ii	carbonic anhydrase ii mutant (f131v)	carbonic anhydrase ii (ala65ser and asn67gln)	carbonic anhydrase 2
+297	132	glutamate receptor ionotropic, ampa 1
+298	136	glutamate receptor ionotropic, ampa 2
+299	64	glutamate receptor ionotropic, ampa 3	gria3
+300	112	glutamate receptor ionotropic, ampa 4
+301	267	aromatase (cyp19)
+302	14	glutamate kainate
+303	272	retinoic acid receptor, beta	retinoic acid receptor beta
+304	19	phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform
+305	796	human immunodeficiency virus type 1 integrase	hiv-1 integrase
+306	2506	11-beta-hydroxysteroid dehydrogenase 1 (11-beta-hsd1)
+307	521	cholecystokinin a receptor
+308	113	transitional endoplasmic reticulum atpase	valosin-containing protein
+309	35	dopamine beta-hydroxylase
+310	18	heat shock cognate 71 kda protein	heat shock 70kda protein 8 isoform 1
+311	158	glycine transporter 2	glycine-2-transporter
+312	525	glycine transporter 1	sodium- and chloride-dependent glycine transporter 1	glycine transporter 1b
+313	30	voltage-gated t-type calcium channel alpha-1i subunit
+314	98	heat shock protein 90
+315	64	insulin-degrading enzyme	insulin-degrading enzyme isoform 1 precursor
+316	2502	glutamate receptor, metabotropic 5	metabotropic glutamate receptor 5	metabotropic glutamate receptor 5 (mglur5)
+317	35	bone morphogenetic protein receptor type-1b
+318	195	interleukin-8 receptor a
+319	17	bone morphogenetic protein receptor type-1a	alk3
+320	1763	matrix metalloproteinase-3 (mmp-3)	matrix metalloproteinase-3
+321	200	tyrosine-protein kinase receptor ufo	tyrosine kinase axl	axl receptor tyrosine kinase
+322	51	nt
+323	19	threonyl-trna synthetase
+324	2836	delta opioid receptor	oprd1
+325	90	discoidin domain-containing receptor 1 (ddr1)	tyrosine kinase ddr1
+326	70	epha4	eph receptor a4	ephrin type-a receptor 4
+327	403	muscarinic acetylcholine receptor m5	chrm5
+328	12	cytochrome p450 3a5
+329	1881	cytochrome p450 3a4
+330	11	cytochrome p450 3a1
+331	106	acetylcholine receptor protein delta chain
+332	39	sterol 14-alpha demethylase (cyp51)	cytochrome p450 51(cyp51)
+333	123	phosphoinositide-3-kinase (pi3k gamma)
+334	51	tyrosine-protein kinase abl2	abl2
+335	46	leukotriene a-4 hydrolase
+336	359	rho-kinase (rock i)
+337	289	motilin receptor
+338	118	thymidine kinase
+339	1750	gonadotropin-releasing hormone receptor
+340	274	chain a, ampc beta-lactamase in complex with 4-methanesulfonylamino benzoic acid	beta-lactamase (ampc)
+341	243	tyrosine-protein kinase tyk2	non-receptor tyrosine kinase tyk2	non-receptor tyrosine-protein kinase tyk2
+342	1262	serine/threonine-protein kinase mtor	mtor
+343	12	peripheral plasma membrane protein cask
+344	69	adrenergic alpha2d	alpha2 adrenoreceptor
+345	25	alpha-glucosidase mal62	alpha-glucosidase
+346	456	voltage-gated potassium channel subunit kv1.5
+347	368	voltage-gated potassium channel subunit kv1.3
+348	11	amp-activated protein kinase, beta-1 subunit
+349	3474	map kinase p38 alpha mutant (g110a)	map kinase p38 alpha	map kinase p38 alpha mutant (g110d)
+350	60	p2y purinoceptor 1
+351	30	camk1d	cam kinase i delta
+352	360	enos	nitric oxide synthase, endothelial	nitric-oxide synthase, endothelial	nitric oxide synthase (enos)	nitric oxide synthase, endothelial mutant (n368d)
+353	26	mark2	map/microtubule affinity-regulating kinase 2
+354	326	c-x-c chemokine receptor type 4
+355	802	c-x-c chemokine receptor type 3	cxc chemokine receptor 3
+356	1882	phosphoinositide-3-kinase (pi3k alpha)	phosphoinositide 3-kinase (pi3k), alpha	pi3-kinase p110-alpha subunit
+357	76	tyrosine kinase csk
+358	329	aldo-keto-reductase family 1 member c3	17-beta-hydroxysteroid dehydrogenase 5 (17-beta-hsd5, akr1c3)
+359	1265	poly [adp-ribose] polymerase-1
+360	20	alcohol dehydrogenase alpha chain
+361	1038	tbxa2r	thromboxane a2 receptor
+362	3490	norepinephrine transporter (net)	norepinephrine transporter
+363	1445	insulin-like growth factor 1 receptor (igf-1r)	insulin-like growth factor i receptor	insulin-like growth factor 1 receptor	insulin-like growth factor 1 receptor (igf1r)
+364	11	gaba receptor rho-1 subunit
+365	29	amp-activated protein kinase, alpha-1 subunit	ampk-alpha1
+366	28	maternal embryonic leucine zipper kinase
+367	669	melatonin receptor type 2 (mt2)	melatonin receptor 1b
+368	67	adra1a
+369	199	adra1b	alpha-1 adrenergic receptor	alpha-1b adrenergic receptor
+370	352	dopamine d5 receptor	drd5	dopamine d1b
+371	63	cytochrome p450 2c8
+372	955	cytochrome p450 2c9
+373	35	pfcdpk1
+374	29	gamma-amino-n-butyrate transaminase	gaba
+375	130	fatty acid synthase
+376	11	gaba a benzodiazepine	gaba a	gaba receptor alpha-1 subunit
+377	40	estrogen receptor beta
+378	262	beta-lactamase
+379	11	signal transducer and activator of transcription 5b
+380	802	bradykinin b1 receptor	bdkrb1	b1 bradykinin receptor
+381	17	map-microtubule affinity-regulating kinase 3 (mark3)
+382	18	serine/threonine-protein kinase mrck beta
+383	47	histone deacetylase hd1b
+384	60	aminopeptidase a
+385	40	aminopeptidase b
+386	206	tyrosine-protein kinase sky
+387	384	aminopeptidase m	aminopeptidase n
+388	105	imidazoline i2	imidazoline i1	nischarin
+389	112	cystic fibrosis transmembrane conductance regulator
+390	17	ribonucleoside-diphosphate reductase large chain
+391	3960	kappa opioid receptor	oprk1	opiate kappa 3
+392	682	s6k1
+393	234	adenosine receptor a3	adenosine a3 receptor
+394	161	factor ixa (fixa)
+395	10	tyrosine aminotransferase
+396	137	phenylethanolamine n-methyltransferase (pnmt)
+397	159	pyrimidinergic receptor p2y6
+398	112	pyrimidinergic receptor p2y4
+399	18	reverse transcriptase (f61a)	reverse transcriptase	reverse transcriptase (a62v)	reverse transcriptase protein
+400	16	gaba receptor beta-3 subunit
+401	60	follicle stimulating hormone receptor
+402	50	c-x3-c chemokine receptor 1
+403	237	metabotropic glutamate receptor 4	metabotropic glutamate 4a	glutamate receptor, metabotropic 4 precursor
+404	846	metabotropic glutamate receptor 2	metabotropic glutamate 2/1
+405	66	metabotropic glutamate receptor 3
+406	490	metabotropic glutamate receptor 1	metabotropic glutamate 1a
+407	18	protein-tyrosine kinase 2-beta
+408	21	glycogen synthase kinase 3 (gsk3)
+409	270	retinoic acid receptor, alpha	retinoic acid receptor alpha
+410	21	cholesterol esterase
+411	88	gar tfase	gar transformylase
+412	31	mitogen-activated protein kinase kinase kinase 3 isoform 1	mitogen-activated protein kinase kinase kinase 3
+413	112	estrogen-related receptor, alpha	estrogen-related receptor alpha
+414	31	amiloride-sensitive cation channel 3
+415	10	arachidonate 15-lipoxygenase, type ii
+416	283	farnesyl pyrophosphate synthase (fpps)	farnesyl pyrophosphate synthase	farnesyl diphosphate synthase
+417	12	solute carrier organic anion transporter family member 1a1
+418	236	voltage-dependent calcium channel alpha2delta subunit	voltage-gated calcium channel alpha2/delta subunit 1
+419	36	cfms
+420	10	branched-chain-amino-acid transferase
+421	274	neuraminidase a	neuraminidase
+422	102	pim-2 kinase
+423	545	serotonin 7 (5-ht7) receptor	serotonin receptor 7	htr7
+424	16	calcitonin receptor
+425	72	nuclear receptor subfamily 4, group a, member 1
+426	14	uracil nucleotide/cysteinyl leukotriene receptor
+427	10	his6-p53	cellular tumor antigen p53
+428	243	cyclin-dependent kinase 9 (cdk9)
+429	104	camk2d	cam kinase ii delta
+430	245	thrombopoietin receptor
+431	13	epidermal growth factor receptor erbb1
+432	42	phosphoinositide 3-kinase (pi3k), gamma
+433	25	lipoprotein lipase
+434	288	glycogen synthase kinase-3, alpha
+435	42	arginase-1
+436	76	cytochrome p450 1b1
+437	28	carboxylesterase
+438	18	adra2a
+439	410	adra2b	alpha-2b adrenergic receptor	adrenergic, alpha-2b-, receptor [homo sapiens]
+440	360	solute carrier family 12 member 5	electroneutral potassium-chloride cotransporter kcc2
+441	12	cyclin-dependent kinase-like 5
+442	41	arginase-2, mitochondrial
+443	32	enoyl-[acyl-carrier-protein] reductase [nadh]	enoyl-[acyl-carrier-protein] reductase [nadh] (ftufabl)
+444	22	cyclin-dependent kinase-like 2
+445	203	ptk2b protein tyrosine kinase 2 beta	protein tyrosine kinase 2 beta
+446	32	oxoeicosanoid receptor 1
+447	24	phosphodiesterase type 8 (pde8a)
+448	64	blk	tyrosine-protein kinase blk
+449	191	hck
+450	21	ribonucleoside-diphosphate reductase m1 chain
+451	307	vesicular acetylcholine transporter
+452	21	purine-nucleoside phosphorylase
+453	20	dna polymerase beta
+454	405	endothelin-converting enzyme 1 (ece)	endothelin-converting enzyme 1
+455	72	beta-chymotrypsin
+456	151	selectin e
+457	209	microsomal triglyceride transfer protein large subunit
+458	10	ribosomal protein s6 kinase 2
+459	15	cam kinase ii beta	camk2b
+460	33	endoplasmin	heat shock protein 90 beta
+461	545	hepatitis c virus ns3 protease/helicase	hcv ns3-ns4a serine proteinase	hepatitis c virus polyprotein	ns3
+462	1384	nociceptin receptor (orl1 receptor)
+463	131	htr6
+464	123	calmodulin-domain protein kinase 1
+465	39	alpha carbonic anhydrase
+466	349	cnr2
+467	42	intermediate conductance calcium-activated potassium channel protein 4
+468	18	receptor-type tyrosine-protein phosphatase alpha
+469	69	tgf-beta receptor type ii
+470	1359	monoamine oxidase b	monoamine oxidase type b (mao-b)
+471	476	calcium sensing receptor	calcium-sensing receptor (casr)
+472	51	g protein-coupled receptor kinase 5
+473	25	g protein-coupled receptor kinase 4
+474	27	g protein-coupled receptor kinase 7
+475	213	quinone reductase 2	quinone reductase 2 (qr2)	nrh:quinone oxidoreductase 2 (nqo2)
+476	42	tyrosine-protein kinase txk
+477	79	quinone reductase 1
+478	230	tyrosine-protein kinase lyn
+479	33	ribosomal s6 kinase 4 (rsk-4)
+480	3948	cannabinoid receptor 2 (cb2)	cannabinoid receptor 2
+481	31	urokinase plasminogen activator surface receptor
+482	487	histone deacetylase 2 (hdac2)
+483	359	cysteinyl leukotriene receptor 1
+484	1266	hsp90aa1 protein	heat shock protein hsp 90-alpha	heat shock protein 90 (hsp90)
+485	71	voltage-gated l-type calcium channel alpha-1s subunit
+486	183	beta-glucocerebrosidase	glucocerebrosidase (acid beta-glucosidase)
+487	819	adenosine a1 receptor
+488	15	aryl hydrocarbon receptor	ah receptor
+489	22	serine/threonine-protein kinase mark1
+490	136	sodium channel protein type ii alpha subunit	sodium (site 2)
+491	2162	histone deacetylase 1 (hdac1)	histone deacetylase 1
+492	219	tyrosine-protein kinase met
+493	275	egfr(l858r)	egf-r tyrosine kinase mutant (g719c)	epidermal growth factor receptor (egfr)
+494	96	neuropeptide s receptor
+495	1805	g protein-coupled receptor 44	prostaglandin d2 receptor crth2
+496	17	1,3-beta-glucan synthase
+497	2206	matrix metalloproteinase-13 (mmp-13)
+498	530	insulin receptor tyrosine kinase (irk)	insulin receptor	insr
+499	864	protein kinase c	protein kinase c alpha	protein kinase c, alpha
+500	70	maltase-glucoamylase
+501	13	gaba receptor subunit
+502	24	atp-binding cassette sub-family c member 8	sulfonylurea receptor 1
+503	33	nuak family snf1-like kinase 2
+504	11	thioredoxin reductase (trxr)
+505	10	receptor tyrosine-protein kinase erbb-2 (her2)	erbb2
+506	37	nuak family snf1-like kinase 1
+507	92	cytochrome p450 1a1	cytochrome p450 1a1 (cyp1a1)
+508	428	cytochrome p450 1a2
+509	23	gaba a alpha5
+510	11	phosphatidylinositol-4-phosphate 3-kinase c2 domain-containing subunit gamma
+511	29	activin receptor type-1	alk2
+512	6196	serotonin transporter (sert)	serotonin transporter	slc6a4
+513	171	glucagon receptor
+514	45	dual specificity mitogen-activated protein kinase kinase 5
+515	30	pkn1	protein kinase n1
+516	59	histone deacetylase
+517	43	tyrosine-protein kinase receptor tie-1
+518	1799	progesterone receptor	progesterone receptor (pr)
+519	170	vascular adhesion protein 1 (vap-1)	amine oxidase, copper containing
+520	47	acetylcholine receptor protein alpha chain	n-achr	cholinergic, nicotinic alpha1beta1deltagamma
+521	20	serine/threonine-protein kinase dclk1
+522	27	serine/threonine-protein kinase dclk3	dcamkl3
+523	14	serine/threonine-protein kinase dclk2
+524	117	gastric inhibitory polypeptide receptor	gastric inhibitory polypeptide receptor (gipr)
+525	35	bmx	tyrosine kinase bmx
+526	100	cytochrome p450 2a6
+527	143	plasma kallikrein
+528	15	tyrosine kinase c-ret
+529	23	cytochrome p450 2a5
+530	2001	glucocorticoid receptor (gr)	glucocorticoid receptor
+531	49	vipr2	vasoactive intestinal polypeptide receptor 2
+532	2711	neurokinin 1 receptor	tacr1	substance-p receptor
+533	37	pepsinogen c
+534	37	proto-oncogene tyrosine-protein kinase receptor ret
+535	43	large conductance calcium-activated potassium channel subfamily m alpha member 1 isoform b
+536	48	g protein-activated inward rectifier potassium channel 4
+537	17	platelet-derived growth factor receptor beta
+538	143	factor xiia (fxiia)	coagulation factor xii
+539	210	phosphoinositide 3-kinase (pi3k), delta
+540	242	thymidylate synthase (ts)
+541	1620	serotonin 2a (5-ht2a) receptor	serotonin receptor 2a	htr2a
+542	853	acyl-coa:cholesterol acyltransferase
+543	69	sodium channel protein type 10 subunit alpha
+544	891	nitric oxide synthase (nnos)	nitric oxide synthase, brain
+545	1825	estrogen receptor alpha	estrogen receptor (er-alpha)	estrogen alpha
+546	488	factor viia (fviia)
+547	160	tryptase
+548	112	purine nucleoside phosphorylase (pnp)
+549	528	serine/threonine-protein kinase pim-3	pim-3 kinase	serine/threonine-protein kinase pim3
+550	33	ephrin type-b receptor 3	tyrosine kinase ephb3
+551	34	ephrin type-b receptor 1
+552	41	ephrin type-b receptor 6
+553	1785	cyclin-dependent kinase 4 (cdk4)	cdk4
+554	22	gamma-butyrobetaine dioxygenase
+555	388	purinergic receptor p2y1
+556	231	purinergic receptor p2y2
+557	173	coup transcription factor 2 isoform a
+558	724	sphingosine 1-phosphate receptor 3
+559	30	low affinity sodium-glucose cotransporter
+560	14	adrenergic alpha1c
+561	380	plasmepsin 2	plasmepsin ii
+562	13	cyclin-dependent kinase 13
+563	162	plasmepsin i
+564	200	ribosomal s6 kinase 2 (rsk-2)
+565	27	leukocyte adhesion molecule-1
+566	24	small conductance calcium-activated potassium channel protein 2
+567	62	small conductance calcium-activated potassium channel protein 3
+568	22	nmb
+569	118	matrix metalloproteinase-10 (mmp-10)
+570	48	vitronectin receptor alpha
+571	118	butyrylcholinesterase (buche)
+572	11	cytochrome p450 2c18
+573	441	cytochrome p450 2c19
+574	19	serine/threonine-protein kinase pftaire-1
+575	35	matrix metalloproteinase 11
+576	16	serine/threonine-protein kinase pftaire-2
+577	175	nuclear receptor ror-gamma
+578	45	beta-1,3-glucan synthase
+579	21	dna topoisomerase ii alpha
+580	17	recname: full=beta-galactosidase; short=beta-gal; altname: full=lactase	beta-galactosidase
+581	266	neuronal acetylcholine receptor (alpha4beta2 nachr)	neuronal acetylcholine receptor protein alpha-4 subunit
+582	465	liver glycogen phosphorylase	glycogen phosphorylase (pygl)
+583	46	monocarboxylate transporter 1
+584	19	serine/threonine-protein kinase ick
+585	43	phosphodiesterase 5
+586	15	aicar transformylase
+587	110	discoidin domain-containing receptor 2 (ddr2)	tyrosine kinase ddr2
+588	63	ribosomal s6 kinase 1 (rsk-1)
+589	25	serine/threonine-protein kinase srpk3
+590	14	serine/threonine-protein kinase srpk2
+591	1648	b-raf protein kinase mutant (v599e)	b-raf protein kinase mutant (v600e)	b-raf protein kinase
+592	797	i-kappa-b kinase 2 (ikk-beta)
+593	48	tyrosine kinase trka	receptor tyrosine kinase trka
+594	51	mek2
+595	498	c-raf protein kinase	raf-1
+596	1024	cyclin-dependent kinase 1	cyclin-dependent kinase 1 (cdk1)
+597	48	melatonin
+598	13	cyclin-dependent kinase 3
+599	411	phosphodiesterase type 4 (pde4d)	phosphodiesterase 4d
+600	104	3-alpha-hydroxysteroid dehydrogenase type 3 (akr1c2)	20-alpha-hydroxysteroid dehydrogenase (akr1c1) mutant (l306a)	20-alpha-hydroxysteroid dehydrogenase (akr1c1) mutant (l308a)	20-alpha-hydroxysteroid dehydrogenase (akr1c1)	20-alpha-hydroxysteroid dehydrogenase (akr1c1) mutant (h222s)	20-alpha-hydroxysteroid dehydrogenase (akr1c1) mutant (l54v)
+601	13	pitslre serine/threonine-protein kinase cdc2l2
+602	385	carbonic anhydrase vii
+603	57	poly (adp-ribose) polymerase-2 (parp-2)
+604	37	protein kinase c delta
+605	76	cystinyl aminopeptidase
+606	13	phosphodiesterase type 2 (pde2a)	phosphodiesterase 2a
+607	138	phosphodiesterase 8b
+608	186	gaba transporter 1
+609	48	serum albumin
+610	238	retinoic acid receptor gamma	retinoic acid receptor, gamma
+611	17	serine/threonine-protein kinase nek1
+612	21	rhodopsin kinase
+613	169	sodium channel protein type v alpha subunit
+614	553	glutamate (nmda) receptor subunit zeta 1
+615	69	histone deacetylase 7 (hdac7)
+616	331	camp-dependent protein kinase alpha-catalytic subunit	camp-dependent protein kinase (pka)	camp-dependent protein kinase (pka) mutant pkar1 (1)	camp-dependent protein kinase (pka) mutant pkar1 (3)	camp-dependent protein kinase (pka) mutant pkar1 (2)	camp-dependent protein kinase (pka) mutant pkar1 (4)	camp-dependent protein kinase (pka) mutant pkar3 (1)	camp-dependent protein kinase (pka) mutant pkar3	camp-dependent protein kinase (pka) mutant pkar2 (3)	camp-dependent protein kinase (pka) mutant pkar2 (1)	camp-dependent protein kinase (pka) mutant pkar5	camp-dependent protein kinase (pka) mutant pkar4	cyclic amp-dependent protein kinase (pka)
+617	617	serotonin 4 (5-ht4) receptor
+618	2750	acetylcholinesterase (ache)	acetylcholinesterase
+619	331	vitamin d receptor	1,25-dihydroxyvitamin d3 receptor
+620	25	voltage-gated calcium channel alpha2/delta subunit 2
+621	71	voltage-gated potassium channel subunit kv7.1
+622	57	voltage-gated potassium channel subunit kv7.2
+623	573	histone deacetylase 8	histone deacetylase 8 (hdac8)
+624	58	purinergic receptor p2y14
+625	19	purinergic receptor p2y12
+626	498	gpr109b	niacin receptor gpr109a	hm74 nicotinic acid gpcr
+627	539	fibroblast growth factor receptor 3	fibroblast growth factor receptor 3 (fgfr3)
+628	13	tyrosine-protein phosphatase non-receptor type 9
+629	31	fibroblast growth factor receptor 4
+630	178	autotaxin (matx)	autotaxin
+631	18	tec
+632	300	alpha-1a adrenergic receptor	adrenergic alpha1
+633	45	glutathione s-transferase pi
+634	30	malate dehydrogenase, mitochondrial
+635	24	nuclear receptor ror-alpha
+636	108	tyrosine kinase c-met mutant (h1094r)	tyrosine kinase c-met	tyrosine kinase c-met mutant (y1230h)	tyrosine kinase c-met mutant (d1228h)	tyrosine kinase c-met mutant (m1250t)	tyrosine kinase c-met mutant (v1092i)
+637	398	adenosine kinase
+638	3827	vegfr-2 (kdr)
+639	33	synaptic vesicle protein 2a
+640	831	trace amine-associated receptor 1 (taar1)
+641	1065	mitogen-activated protein kinase 8 (jnk1)	mitogen-activated protein kinase 8
+642	16	hormonally up-regulated neu tumor-associated kinase
+643	351	factor xia (fxia)
+644	273	protein-tyrosine phosphatase shp-2	tyrosine-protein phosphatase non-receptor type 11
+645	517	apoptosis regulator bcl-xl
+646	38	cholinergic, nicotinic alpha2beta2
+647	166	enoyl-acp reductase (inha)
+648	256	glucagon-like peptide 1 receptor	glucagon-like peptide receptor
+649	58	proteasome macropain subunit
+650	58	pyruvate kinase isozymes m1/m2
+651	36	sgk1
+652	157	p38-beta	map kinase p38 beta
+653	138	vcam-1
+654	514	steroid 11-beta-hydroxylase (cyp11b1)	cytochrome p450 11b1
+655	11	alcohol dehydrogenase gamma chain	alcohol dehydrogenase beta chain
+656	36	vasoactive intestinal polypeptide receptor 1
+657	54	tyrosine-protein kinase fgr	fgr
+658	92	tyrosine-protein kinase yes
+659	56	g protein-activated inward rectifier potassium channel 1
+660	40	activated cdc42 kinase 1
+661	1801	adenosine receptor a2b
+662	34	adenosine receptor a2a
+663	14	cgmp-dependent protein kinase 2
+664	143	alpha-chymotrypsin
+665	857	cyclin-dependent kinase 5 (cdk5)
+666	10	acetolactate synthase
+667	49	urease
+668	18	voltage-gated n-type calcium channel alpha-1b subunit
+669	80	adora1
+670	143	alpi
+671	347	vasopressin v1a receptor	avpr1a
+672	30	serine/threonine-protein kinase sik1
+673	43	receptor-type tyrosine-protein phosphatase beta
+674	15	serine/threonine-protein kinase sik3
+675	32	serine/threonine-protein kinase sik2
+676	594	itk	tyrosine-protein kinase itk
+677	30	potassium-transporting atpase alpha chain 1
+678	28	glutamate receptor ionotropic kainate 5
+679	101	glutamate receptor ionotropic kainate 2
+680	39	parathyroid hormone receptor
+681	23	gaba a alpha6
+682	285	protein kinase c, epsilon	protein kinase c epsilon
+683	38	excitatory amino acid transporter 2
+684	546	trace amine-associated receptor 1
+685	1104	peroxisome proliferator-activated receptor delta
+686	501	protein kinase c theta type	protein kinase c, theta
+687	21	xanthine dehydrogenase/oxidase
+688	24	heat shock protein 75 kda, mitochondrial
+689	22	death-associated protein kinase 2
+690	49	death-associated protein kinase 3
+691	1973	androgen receptor (ar)	androgen receptor
+692	4445	dopamine transporter (dat)	slc6a3	dopamine transporter
+693	1606	carbonic anhydrase ix
+694	129	voltage-gated l-type calcium channel alpha-1d subunit
+695	1412	carbonic anhydrase iv
+696	27	bile acid receptor	farnesoid x-activated receptor
+697	1050	cgmp-specific 3',5'-cyclic phosphodiesterase	phosphodiesterase type 5 (pde5)	phosphodiesterase 5a
+698	28	1,3-beta-glucan synthase component gls2
+699	83	dna gyrase
+700	220	equilibrative nucleoside transporter 1 (ent1)
+701	992	focal adhesion kinase 1 (fak)	tyrosine kinase fak
+702	12	melatonin receptor 1c
+703	21	gaba-b receptor 1	gamma-aminobutyric acid type b receptor subunit 1
+704	82	ntsr2	neurotensin receptor 2
+705	2541	renin
+706	17	alpha-amylase	pancreatic alpha-amylase
+707	17	chemoattractant receptor-homologous molecule expressed on th2 cells
+708	75	protein kinase c, zeta
+709	293	5-hydroxytryptamine receptor 1b (5ht1b)	serotonin 1b (5-ht1b) receptor
+710	35	coagulation factor iii
+711	3634	histamine receptor h3	histamine h3 receptor
+712	1745	protein kinase b (akt 1)	rac-alpha serine/threonine-protein kinase
+713	14	vascular endothelial growth factor receptor 2 (vegfr-2)	vegfr2
+714	48	protein kinase n2
+715	19	insulin receptor-related protein
+716	34	pare
+717	59	cholinergic, muscarinic
+718	47	succinate receptor 1
+719	185	formyl peptide receptor 1
+720	10	inositol-1(or 4)-monophosphatase 1
+721	13	udp-galactopyranose mutase
+722	14	map/microtubule affinity-regulating kinase 4
+723	219	voltage-gated t-type calcium channel alpha-1g subunit
+724	32	ryanodine receptor 1
+725	695	mitogen-activated protein kinase 10 (jnk3)
+726	397	angiotensin ii at1b
+727	34	poly [adp-ribose] polymerase 2
+728	33	poly [adp-ribose] polymerase 1
+729	461	high affinity camp-specific 3',5'-cyclic phosphodiesterase 7a	phosphodiesterase 7a
+730	166	pepsinogen a5	pepsin
+731	28	atrial natriuretic peptide receptor a
+732	10	atrial natriuretic peptide receptor b
+733	227	growth factor receptor-bound protein 2
+734	2543	matrix metalloproteinase-1 (mmp-1)	matrix metalloproteinase-1
+735	15	betaine--homocysteine s-methyltransferase 1
+736	19	adenosine a2a receptor
+737	36	xanthine oxidase
+738	15	serine/threonine-protein kinase nim1
+739	501	avpr2	vasopressin v2 receptor
+740	55	palmitoyl-coa oxidase
+741	53	toll-like receptor 2
+742	139	toll-like receptor 7
+743	77	dna gyrase subunit a
+744	609	mitogen-activated protein kinase 1	extracellular signal-regulated kinase 2 (erk2)	erk-2
+745	22	toll-like receptor 8
+746	11	mitogen-activated protein kinase 6
+747	34	dna polymerase alpha subunit
+748	931	oxytocin receptor	oxtr
+749	1188	cytochrome p450 2d6
+750	22	prostasin
+751	79	phosphodiesterase 6a	rod cgmp-specific 3',5'-cyclic phosphodiesterase subunit alpha
+752	30	i-kappa-b-alpha
+753	147	cyclin-dependent kinase 7 (cdk7)
+754	61	proteasome component c5
+755	14	ns3 protein
+756	466	smoothened homolog
+757	33	lysosomal alpha-glucosidase
+758	20	estrogen-related receptor, gamma	estrogen-related receptor gamma
+759	739	thymidylate synthase
+760	12	6-phosphogluconate dehydrogenase, decarboxylating	6-phosphogluconate dehydrogenase (6pgd)
+761	782	sodium-dependent glucose cotransporter 1 (sglt1)
+762	54	luteinizing hormone/choriogonadotropin receptor
+763	15	platelet glycoprotein 4
+764	69	trypanothione reductase (tryr)
+765	305	transient receptor potential cation channel subfamily a member 1
+766	17	cam kinase i gamma
+767	1836	vanilloid receptor 1 (trpv1, vr1)
+768	32	cytochrome p450 24a1
+769	387	butyrylcholinesterase
+770	20	serine/threonine protein phosphatase pp1-gamma catalytic subunit
+771	14	carnitine palmitoyltransferase 1b
+772	181	apoptotic peptidase activating factor 1
+773	25	carnitine palmitoyltransferase 1a
+774	465	matrix metalloproteinase-7 (mmp-7)
+775	44	transmembrane protease serine 11d
+776	18	cell division cycle 2-like 6 (cdk11)
+777	28	cyclophilin b (cypb)
+778	62	p2y purinoceptor 14
+779	149	lanosterol synthase
+780	36	calcium channel
+781	48	proteinase-activated receptor 2
+782	19	br serine/threonine-protein kinase 2	brsk2
+783	240	adrenergic alpha2
+784	563	prostanoid dp receptor
+785	91	hypoxia-inducible factor prolyl hydroxylase 1
+786	25	srsf protein kinase 1 (srpk1)
+787	22	udp-n-acetylmuramate dehydrogenase
+788	784	vascular endothelial growth factor receptor 2 (vegfr2)
+789	1757	fatty acid amide hydrolase
+790	33	ribosomal s6 kinase 3 (rsk-3)
+791	197	muscle glycogen phosphorylase	glycogen phosphorylase (pygm)	glycogen phosphorylase a (rmgpa)
+792	27	tyrosine-protein kinase fer
+793	27	tyrosine-protein kinase fes
+794	926	apoptosis regulator bcl-2
+795	60	kallikrein 1
+796	16	kallikrein 7
+797	13	kallikrein 5
+798	77	sodium channel protein type x alpha subunit
+799	105	adenosine kinase (ak)
+800	34	fructose-1,6-bisphosphatase 1
+801	29	histone deacetylase (pfhdac-1)
+802	61	fructose-1,6-bisphosphatase 2
+803	18	inositol 1,4,5-trisphosphate receptor type 3
+804	25	inositol 1,4,5-trisphosphate receptor type 1
+805	41	genome polyprotein
+806	25	aryl hydrocarbon receptor (ahr)
+807	706	vegfr-1 (flt-1)	tyrosine-protein kinase receptor flt1
+808	33	nadh-ubiquinone oxidoreductase
+809	34	phosphodiesterase (tcrpdec)
+810	10	protein-arginine deiminase type-4
+811	119	enoyl-acp reductase	enoyl-acp reductase (fabi)
+812	47	hypoxia-inducible factor prolyl hydroxylase 4 (hif)
+813	49	muscarinic acetylcholine receptor m1
+814	163	muscarinic acetylcholine receptor m3
+815	56	muscarinic acetylcholine receptor m2
+816	24	nuclear factor nf-kappa-b p105 subunit
+817	25	cytochrome p450 2e1
+818	19	steroid 5-alpha-reductase 2
+819	417	steroid 5-alpha-reductase 1
+820	29	cycloartenol synthase
+821	34	leukocyte tyrosine kinase receptor
+822	561	liver x receptor alpha (lxr-alpha)
+823	27	ornithine decarboxylase
+824	16	acvr2b
+825	482	c-x-c chemokine receptor type 2 (cxcr2)
+826	52	microtubule-associated protein tau
+827	38	vascular endothelial growth factor a (vegf2)
+828	29	non-receptor tyrosine-protein kinase tnk1	tnk1
+829	101	prostaglandin d synthase
+830	244	glutamate carboxypeptidase ii (gcpii)	glutamate carboxypeptidase ii
+831	31	diamine oxidase
+832	968	matrix metalloproteinase-8 (mmp-8)
+833	14	solute carrier family 22 member 8
+834	34	solute carrier family 22 member 6
+835	29	solute carrier family 22 member 1
+836	13	solute carrier family 22 member 3
+837	38	solute carrier family 22 member 2
+838	16	glutathione s-transferase a1	glutathione s-transferase a2
+839	34	beta-lactamase class c
+840	134	leukocyte common antigen
+841	1491	beta-2 adrenergic receptor	adrb2
+842	33	topoisomerase iv subunit a
+843	12	methionine aminopeptidase type 2 (metap2)
+844	10	beta-ketoacyl-acp-synthase iii
+845	68	methylthioadenosine phosphorylase (mtap)
+846	15	trypsin iii
+847	31	protein kinase pfmrk
+848	10	membrane-type-6 matrix metalloproteinase (mt6-mmp)
+849	12	cyclophilin d (cypd)
+850	2594	sigma opioid receptor
+851	18	gaba transporter 2
+852	269	prostanoid ep4 receptor	ptger4
+853	77	nadph oxidase 1
+854	271	dna topoisomerase 1	dna topoisomerase i
+855	100	nadph oxidase 4
+856	151	phosphoinositide-3-kinase (pi3k beta)	phosphoinositide 3-kinase (pi3k), beta
+857	26	cell division control protein 42 homolog
+858	10	tyrosine kinase ack1
+859	110	tyrosine kinase brk
+860	15	poly(adp-ribose) polymerase-3 (artd3/parp3)
+861	22	transforming protein rhoa
+862	20	prostaglandin transporter
+863	20	neuronal acetylcholine receptor protein alpha-6 subunit
+864	276	atp-binding cassette transporter abcg2
+865	10	serotonin 3b (5-ht3b) receptor
+866	110	beta-ketoacyl-acp synthase iii (fabh)
+867	412	poly [adp-ribose] polymerase 1 (parp)	poly(adp-ribose) polymerase-1 (artd1/parp1)	poly (adp-ribose) polymerase-1 (parp-1)
+868	580	cytochrome p450 17a1
+869	10	coagulation factor viii
+870	2752	carbonic anhydrase 1	carbonic anhydrase i	carbonic anhydrase 1 (ca i)
+871	15	carbonic anhydrase 3
+872	53	apurinic-apyrimidinic endonuclease 1 (ape1)	apurinic-apyrimidinic endonuclease 1 (ape-1)
+873	34	serine/threonine protein phosphatase 2b catalytic subunit, alpha isoform
+874	23	adenosine a2b receptor
+875	21	serine/threonine-protein kinase pctaire-2
+876	17	serine/threonine-protein kinase pctaire-3
+877	33	serine/threonine-protein kinase pctaire-1
+878	19	cytochrome p450 2j2
+879	93	serine-protein kinase atr
+880	54	serine-protein kinase atm
+881	216	tyrosine kinase zap-70
+882	681	phosphodiesterase 4b	phosphodiesterase type 4 (pde4b)
+883	93	phosphodiesterase 4c	phosphodiesterase type 4 (pde4c)
+884	61	phosphodiesterase 4a
+885	239	carbonic anhydrase v	carbonic anhydrase va
+886	94	pdgfrb	beta-type platelet-derived growth factor receptor pdgfrb	platelet-derived growth factor receptor beta (pdgfrb)
+887	1252	cytochrome p450 19a1
+888	834	sodium-dependent glucose cotransporter 2 (sglt2)
+889	52	receptor-type tyrosine-protein phosphatase f (lar)
+890	27	taq polymerase 1
+891	191	protein kinase c gamma	protein kinase c, gamma
+892	183	dna gyrase subunit b
+893	62	beta-adrenergic receptor
+894	32	sodium channel protein type iv alpha subunit
+895	181	carbonic anhydrase vb
+896	75	toll-like receptor 4
+897	143	intercellular adhesion molecule-1
+898	172	toll-like receptor 9
+899	10	receptor tyrosine-protein kinase erbb-4 (her4)
+900	970	cholinesterase
+901	175	proto-oncogene tyrosine-protein kinase mer	mertk
+902	12	nuclear receptor subfamily 4 group a member 2
+903	10	dehydropeptidase-i (dhp-1)
+904	190	macrophage colony-stimulating factor 1 receptor	macrophage colony-stimulating factor 1 receptor (c-fms)
+905	11	phospholipase c-gamma-2
+906	62	dihydroorotate dehydrogenase
+907	80	myeloperoxidase (mpo)
+908	88	pim-1 kinase
+909	10	cytochrome c oxidase subunit 2
+910	41	glutamate [nmda] receptor subunit epsilon 4
+911	691	urokinase-type plasminogen activator (upa)
+912	204	inosine-5-monophosphate dehydrogenase (impdh)
+913	25	thioredoxin glutathione reductase
+914	1386	dopamine d1 receptor	drd1
+915	66	macrophage-stimulating protein receptor
+916	21	solute carrier family 15 member 2
+917	212	matriptase
+918	26	erk-8
+919	153	tubulin beta chain
+920	756	prostanoid ep3 receptor
+921	12	matrix metalloproteinase 26
+922	66	formyl peptide receptor-like 1
+923	11	ribonucleoside-diphosphate reductase m2 chain
+924	264	voltage-gated l-type calcium channel alpha-1c subunit
+925	30	activin receptor type-1b
+926	20	tyrosine kinase jak3
+927	1146	dihydrofolate reductase (dhfr)
+928	19	dihydrofolate reductase-thymidylate synthase (dhfr-ts) mutant sp21
+929	29	ephrin type-a receptor 8	epha8
+930	177	apelin receptor
+931	33	mitogen-activated protein kinase kinase kinase 2
+932	13	serine/threonine-protein kinase 32a
+933	222	purine nucleoside phosphorylase
+934	18	map/microtubule affinity-regulating kinase 3 (mark 3)
+935	28	thioredoxin reductase 1, cytoplasmic
+936	51	thromboxane b2
+937	191	phospholipase d1 isoform b	phospholipase d1	phospholipase d (pld)
+938	15	alpha-glucosidase (alpha-glu)
+939	216	prostanoid ep2 receptor	ptger2
+940	102	adenosine a2	adora2a
+941	93	neurotensin receptor 1
+942	44	erk5
+943	53	intestinal alkaline phosphatase
+944	420	tyrosine kinase non-receptor protein 2	activated cdc42 kinase 1 (ack1)
+945	610	matrix metalloproteinase-14 (mmp-14)	matrix metalloproteinase 14
+946	41	adenylate cyclase type v
+947	1957	dopamine d4 receptor	dopamine d4.4
+948	42	amiloride-sensitive sodium channel alpha-subunit
+949	62	beta-3 adrenergic receptor
+950	21	solute carrier family 22 member 12
+951	192	retinoid x receptor gamma
+952	13	receptor protein-tyrosine kinase erbb-2
+953	68	receptor protein-tyrosine kinase erbb-4
+954	31	isoleucyl-trna synthetase
+955	45	neuronal acetylcholine receptor protein alpha-10 subunit
+956	36	histamine n-methyltransferase
+957	26	phosphorylase kinase gamma subunit 2
+958	519	alk tyrosine kinase receptor
+959	48	beta-glucosidase
+960	143	neuraminidase b
+961	40	neuropeptides b/w receptor type 1
+962	60	growth hormone-releasing hormone receptor
+963	88	inosine monophosphate dehydrogenase type 1 (impdh1)
+964	19	cytochrome b-245 heavy chain
+965	659	dihydroorotate dehydrogenase (dhodh)
+966	15	receptor-type tyrosine-protein phosphatase gamma
+967	67	prostate specific antigen
+968	56	phosphatase, orphan 1
+969	93	activated protein c (apc)
+970	79	neutrophil cytosolic factor 1
+971	90	seprase
+972	12	microtubule-associated serine/threonine-protein kinase 1
+973	54	tubulin beta-1 chain
+974	428	tyrosine kinase btk	tyrosine-protein kinase btk
+975	1094	histone deacetylase 6 (hdac6)	histone deacetylase 6
+976	106	tacr3
+977	82	proto-oncogene c-jun
+978	15	serine/threonine-protein kinase sgk3
+979	13	integrin alpha-iib
+980	223	peroxisome proliferator-activated receptor gamma
+981	233	sphingosine 1-phosphate receptor 5
+982	312	sphingosine 1-phosphate receptor 4
+983	10	sodium/glucose cotransporter 2
+984	190	sphingosine 1-phosphate receptor 2
+985	39	sphingosine 1-phosphate receptor 1
+986	344	sodium/hydrogen exchanger 1
+987	35	matrix metalloproteinase 13
+988	18	matrix metalloproteinase 12
+989	27	matrix metalloproteinase 15
+990	15	matrix metalloproteinase 17
+991	52	matrix metalloproteinase 16
+992	326	estradiol 17-beta-dehydrogenase 1 (17beta-hsd1)	17-beta-hydroxysteroid dehydrogenase 1 (17-beta-hsd1)
+993	91	nnos
+994	46	cholinergic, nicotinic alpha4beta4	cholinergic, nicotinic alpha4beta2
+995	58	vasopressin v1	avpr1b
+996	67	signal transducer and activator of transcription 6
+997	114	trypanothione reductase
+998	38	udp-glucuronosyltransferase 2b7
+999	121	leukocyte adhesion glycoprotein lfa-1 alpha
+1000	66	aldo-keto reductase family 1 member b10
+1001	622	inosine monophosphate dehydrogenase type 2 (impdh2)	inosine-5'-monophosphate dehydrogenase 2
+1002	89	adora3
+1003	88	lysyl-trna synthetase
+1004	12	potassium-transporting atpase alpha chain 2
+1005	29	cam kinase i alpha
+1006	43	complement c1r subcomponent
+1007	644	c-c chemokine receptor type 1 (ccr1)	c-c chemokine receptor type 1
+1008	16	sodium/iodide cotransporter
+1009	10	cyclin d1
+1010	1342	arachidonate 5-lipoxygenase
+1011	1081	her-2 substrate
+1012	768	tumor necrosis factor (tnf-alpha)
+1013	89	squalene monooxygenase
+1014	14	sodium channel
+1015	31	adenosine receptor a1 (a1)
+1016	10	integrin alpha-l
+1017	34	polyamine oxidase
+1018	582	htr2c
+1019	197	htr2b
+1020	49	tryptophan 5-hydroxylase 1
+1021	98	drd4
+1022	314	drd2
+1023	171	drd3
+1024	21	dual specificity testis-specific protein kinase 1
+1025	31	folylpoly-gamma-glutamate synthetase
+1026	52	mitogen-activated protein kinase p38
+1027	196	integrin alpha-4	integrin alpha 4 precursor
+1028	989	nerve growth factor receptor trk-a
+1029	540	cytochrome p450 11b2
+1030	22	muscle, skeletal receptor tyrosine protein kinase
+1031	175	tyrosinase
+1032	43	thermolysin
+1033	103	phosphodiesterase 11a
+1034	54	nuclear receptor subfamily 0 group b member 1
+1035	11	prkg1
+1036	14	leukotriene b4
+1037	120	d-amino acid oxidase (daao)
+1038	12	c-c chemokine receptor type 6
+1039	1905	c-c chemokine receptor type 5
+1040	10	c-c chemokine receptor type 3
+1041	60	c-c chemokine receptor type 2
+1042	548	phosphodiesterase type 4 (pde4a)
+1043	177	c-c chemokine receptor type 8
+1044	634	tyrosine kinase csf1-r
+1045	419	carbonic anhydrase xiv
+1046	1067	carbonic anhydrase xii
+1047	15	5-hydroxytryptamine 1d receptor (5ht1d)
+1048	488	g-protein coupled receptor 40
+1049	20	serine/threonine protein kinase nlk
+1050	193	retinoid x receptor beta
+1051	41	sulfonylurea receptor 2
+1052	15	prostaglandin i2 synthase
+1053	24	phosphorylase kinase gamma subunit 1
+1054	456	leukotriene a4 hydrolase
+1055	13	serine/threonine-protein kinase nek5
+1056	45	adra2c
+1057	18	cam kinase iv
+1058	1881	peroxisome proliferator-activated receptor alpha	peroxisome proliferator activated receptor alpha
+1059	111	acyl coenzyme a:cholesterol acyltransferase 2
+1060	87	acyl coenzyme a:cholesterol acyltransferase 1
+1061	11	glutamine synthetase
+1062	11	prkx
+1063	62	basic fibroblast growth factor
+1064	615	caspase-1
+1065	953	caspase-3
+1066	12	caspase-4
+1067	31	proteasome subunit beta type-8
+1068	151	caspase-6
+1069	360	caspase-7
+1070	19	srms
+1071	1251	angiotensin-converting enzyme
+1072	301	phospholipase a2
+1073	11	matrix protein 2
+1074	165	cyclophilin a
+1075	62	fibroblast growth factor 1 (fgf-1)
+1076	21	hiv-1 protease m2
+1077	2364	hiv-1 protease
+1078	26	c-c motif chemokine 2
+1079	13	calmodulin
+1080	17	group iie secretory phospholipase a2
+1081	28	translocator protein (tspo)
+1082	471	matrix metalloproteinase-12 (mmp-12)
+1083	21	phospholipase a2 group 1b
+1084	17	phospholipase a2 group iia
+1085	17	interleukin-5
+1086	47	immunophilin fkbp12
+1087	20	hiv-1 protease m1
+1088	21	hiv-1 protease m3
+1089	13	fk506 binding protein 12
+1090	10	hiv-1 protease m4
+1091	27	phospholipase a2, major isoenzyme
+1092	13	beta tubulin
+1093	329	phospholipase a2, membrane associated
+1094	25	angiotensin type ii receptor
+1095	787	peripheral-type benzodiazepine receptor
+1096	19	bcr/abl p210 fusion protein
+1097	53	htr4
+1098	16	potassium voltage-gated channel subfamily h member 2
+1099	129	cell division cycle 42 (gtp binding protein, 25kda)

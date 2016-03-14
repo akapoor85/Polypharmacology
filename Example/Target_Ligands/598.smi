@@ -1,0 +1,13 @@
+CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F)cc2)ccn1 16673
+Cc1n[nH]c2ccc(cc12)-c1cncc(OC[C@@H](N)Cc2ccccc2)c1 15138
+CC(C)(C)c1cnc(CSc2cnc(NC(=O)C3CCNCC3)s2)o1 5931
+Cc1nc(Nc2nc3ccc(nc3s2)-c2cccc(c2)C(=O)Nc2cccc(c2)C(F)(F)F)cc(n1)N1CCNCC1 124970
+CN1CC[C@@H]([C@H](O)C1)c1c(O)cc(O)c2c1oc(cc2=O)-c1ccccc1Cl 5655
+COc1ccc(F)c(F)c1C(=O)c1cnc(NC2CCN(CC2)S(C)(=O)=O)nc1N 12621
+Clc1cccc(Cl)c1C(=O)Nc1cn[nH]c1C(=O)NC1CCNCC1 24654
+CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1 31085
+CN[C@@H]1CC2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4CNC(=O)c4c4c5ccccc5n2c4c13 50059889
+Nc1nc(Nc2ccc(cc2)S(N)(=O)=O)nn1C(=O)c1c(F)cccc1F 6866
+Cn1cc(C2=C(C(=O)NC2=O)c2coc3cc(CO)ccc23)c2cc(Br)ccc12 50267607
+Cn1cc(C2=C(C(=O)NC2=O)c2cn(C3CCN(Cc4ccccn4)CC3)c3ccccc23)c2ccccc12 50128285
+Cn1cc(C2=C(C(=O)NC2=O)c2cccc(NCC(O)CO)c2)c2cc(F)ccc12 50312990

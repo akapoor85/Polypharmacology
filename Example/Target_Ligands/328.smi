@@ -1,0 +1,12 @@
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)c1ccc(N)cc1 577
+CCN(CC)C(=O)c1cccc(NC(=O)Nc2ccc(cc2)-c2ccnc3nc[nH]c23)c1 50364642
+O=C(Nc1ccc(cc1)-c1ccnc2nc[nH]c12)Nc1cccc(c1)C(=O)NC1CCCC1 50364644
+O=C(Nc1ccc(cc1)-c1ccnc2nc[nH]c12)Nc1cccc(c1)C(=O)N1CCCCC1 50364645
+Cc1c(O)cccc1C(=O)N[C@H](CSc1ccccc1)[C@H](O)CN1C[C@H]2CCCC[C@H]2C[C@H]1C(=O)NC(C)(C)C 50366785
+CC(C)[C@H](NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)OCc1cncs1)Cc1ccccc1 520
+CCc1c[nH]c2ncnc(-c3ccc(NC(=O)Nc4cccc(c4)C(=O)NC(C)C)cc3)c12 50364650
+CC(C)NC(=O)c1cccc(NC(=O)Nc2ccc(cc2)-c2ccncc2)c1 50364653
+COc1cccc(c1)-c1ccc(NC(=O)Nc2ccc(cc2)-c2ccnc3nc[nH]c23)cc1 50364657
+Clc1ccccc1NC(=O)Nc1ccc(cc1)-c1ccnc2nc[nH]c12 50364627
+CC(C)N(C(C)C)C(=O)c1cccc(NC(=O)Nc2ccc(cc2)-c2ccnc3nc[nH]c23)c1 50364661
+COc1ccc(CCNCCCC(C#N)(C(C)C)c2ccc(OC)c(OC)c2)cc1OC 50121977

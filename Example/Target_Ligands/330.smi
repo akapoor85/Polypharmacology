@@ -1,0 +1,11 @@
+CSC[C@@H]1CO[C@@](CCc2ccc(Cl)cc2)(Cn2ccnc2)O1 31681
+FC[C@@H]1CO[C@@](CCc2ccc(Cl)cc2)(Cn2ccnc2)O1 31682
+Clc1ccc(CC[C@@]2(Cn3ccnc3)OC[C@@H](CSc3ccccc3)O2)cc1 31652
+Clc1ccc(CC[C@@]2(Cn3ccnc3)OC[C@@H](CSc3ccncc3)O2)cc1 31656
+Oc1ccc(SC[C@@H]2CO[C@@](CCc3ccc(Cl)cc3)(Cn3ccnc3)O2)cc1 31657
+Clc1ccc(CC[C@@]2(Cn3ccnc3)OC[C@@H](CSc3ccc(Br)cc3)O2)cc1 31658
+Clc1ccc(CC[C@@]2(Cn3ccnc3)OC[C@@H](CSC3CCCCC3)O2)cc1 31664
+Clc1ccc(CC[C@@]2(Cn3ccnc3)OC[C@@H](CSc3ccc4ccccc4c3)O2)cc1 31665
+Oc1ccc(OC[C@@H]2CO[C@@](CCc3ccc(Cl)cc3)(Cn3ccnc3)O2)cc1 31669
+Clc1ccc(CC[C@@]2(Cn3ccnc3)OC[C@@H](COc3ccc(Br)cc3)O2)cc1 31672
+Clc1ccc(CC[C@@]2(Cn3ccnc3)OC[C@@H](COc3ccc(cc3)C#N)O2)cc1 31677

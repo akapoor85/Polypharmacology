@@ -1,0 +1,10 @@
+[O-][N+](=O)c1ccc(COc2ccc(Cl)cc2C=C2C(=O)NC(=O)N(C2=O)c2ccccc2F)cc1 50376417
+O[C@@H](COc1ccc(Cl)cc1Cl)Cn1c2ccccc2n(CCN2CCCCC2)c1=N 50423622
+FC(F)(F)c1cccc(c1)N1C(=S)S\C(=C/c2ccc(Br)o2)C1=O 59153
+[O-][N+](=O)c1ccc(cc1)N1C(=S)S\C(=C/c2ccc(Br)o2)C1=O 59154
+[O-][N+](=O)c1cc(Cl)c(cc1Cl)-c1ccc(C=C2C(=O)NC(=S)NC2=O)o1 59159
+FC(F)(F)c1cccc(c1)N1C(=S)S\C(=C/c2ccc(I)o2)C1=O 59161
+FC(F)(F)c1cccc(c1)N1C(=S)S\C(=C/c2ccc(o2)-c2ccc(Cl)cc2Cl)C1=O 59162
+[O-][N+](=O)c1ccc(cc1)N1C(=S)S\C(=C\c2ccc(Sc3ccc(Cl)cc3)o2)C1=O 59163
+[O-]C(=O)c1cc(ccc1Cl)-c1ccc(C=C2C(=O)NC(=S)NC2=O)o1 59164
+[O-]C(=O)c1cccc(-c2ccc(C=C3C(=O)NC(=S)NC3=O)o2)c1Cl 59165

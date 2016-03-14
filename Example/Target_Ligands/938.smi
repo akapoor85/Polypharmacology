@@ -1,0 +1,15 @@
+CC(C)c1cccc(C(C)C)c1N1C(=O)c2ccccc2C1=S 23842
+Oc1ccc2CCc3ccc(c(O)c3)-c3ccccc3CCc3ccc(Oc1c2)cc3 23849
+Oc1ccc-2c(CCc3ccc(Oc4cc(CCc5ccc-2cc5)ccc4O)cc3)c1 23850
+Oc1ccc-2c(CCc3ccc(Oc4cccc(CCc5ccc-2c(O)c5)c4)cc3)c1 23851
+OC[C@H]1NC[C@H](O)[C@@H](O)[C@@H]1O 18351
+CN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO 18353
+CCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO 18355
+CCCCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO 18356
+CCCCCCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO 18357
+CCCCCCCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO 18358
+OC(=O)Cc1cccc(OCCCN(CC(c2ccccc2)c2ccccc2)Cc2cccc(c2Cl)C(F)(F)F)c1 19992
+CCCCCCCC[C@H]1N[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O 18363
+CCCCCCCCC[C@H]1N[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O 18364
+OC[C@H]1N[C@H](CO)[C@H](O)C(O)[C@@H]1O 18366
+Oc1ccc-2c(CCc3ccc(Oc4cc(CCc5ccc-2c(O)c5)ccc4O)cc3)c1 23839

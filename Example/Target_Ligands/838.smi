@@ -1,0 +1,16 @@
+CSCC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(C)=O)C(=O)NC(C)(C)C(=O)N[C@@H](Cc1ccc(CP([O-])([O-])=O)cc1)C(=O)N[C@@H](Cc1c[nH]c2cc(Cl)ccc12)C(=O)N[C@@H](CCC(O)=O)C(=O)NC1(CC1)C(=O)N[C@@H](CC(C)C)C(N)=O 50111440
+CSCC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(O)=O)NS(=O)(=O)c1ccccc1)C(N)=O 50295554
+CSCC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(O)=O)NS(=O)(=O)c1ccccc1)C(C)C)C(N)=O 50295555
+CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(O)=O)NS(=O)(=O)c1ccccc1)C(C)C)C(N)=O 50295556
+CCC(CC(C)=O)SCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O 50088969
+CCCC(CC(C)=O)SCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O 50088974
+CCCCCCSCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O 50043758
+CCC(=C)C(=O)c1ccc(OCC(=O)NCCCCCC(=O)NCc2cc(CNC(=O)CCCCCNC(=O)COc3ccc(C(=O)C(C)=C)c(Cl)c3Cl)cc(c2)C(N)=O)c(Cl)c1Cl 50186223
+CCC(=C)C(=O)c1ccc(OCC(=O)NCCCC(=O)NCCCC(=O)NCCCC(=O)NCc2cc(CNC(=O)CCCNC(=O)CCCNC(=O)CCCNC(=O)COc3ccc(C(=C)CC)c(Cl)c3Cl)cc(c2)C(N)=O)c(Cl)c1Cl 50186224
+CCC(=C)C(=O)c1ccc(OCC(=O)NCCC(=O)NCc2cc(CNC(=O)CCNC(=O)COc3ccc(C(=O)C(C)=C)c(Cl)c3Cl)cc(c2)C(N)=O)c(Cl)c1Cl 50186225
+CCC(=C)C(O)c1ccc(OCC(=O)NCCCCCCCC(=O)NCc2cc(CNC(=O)CCCCCCCCNC(=O)COc3ccc(C(=O)C(=C)CC)c(Cl)c3Cl)cc(c2)C(N)=O)c(Cl)c1Cl 50186227
+CCCCCCSCC(NC(=O)CCC(N)C(O)=O)C(=O)NC(C(O)=O)c1ccccc1 50043764
+CCC(=C)C(=O)c1ccc(OCC(=O)NCC(=O)NCc2cc(CNC(=O)CNC(=O)COc3ccc(C(=O)C(=C)CC)c(Cl)c3Cl)cc(c2)C(N)=O)c(Cl)c1Cl 50186229
+CCC(=C)C(=O)c1ccc(OCC(=O)NCCCC(=O)NCc2cc(CNC(=O)CCCNC(=O)COc3ccc(C(=O)C(C)=C)c(Cl)c3Cl)cc(c2)C(N)=O)c(Cl)c1Cl 50186230
+CCC(=C)C(=O)c1ccc(OCC(O)=O)c(Cl)c1Cl 50186231
+CCC(=C)C(=O)c1ccc(OCC(=O)NCc2cc(CNC(=O)COc3ccc(C(=O)C(=C)CC)c(Cl)c3Cl)cc(c2)C(N)=O)c(Cl)c1Cl 50186228

@@ -1,0 +1,11 @@
+CNC(=O)[C@H](CC(C)C)C[C@H](O)[C@H](CC1CCCCC1)NC(=O)C(Cc1cnc[nH]1)NC(=O)C(Cc1ccccc1)NC(=O)OC(C)(C)C 50113828
+CP([O-])(=O)CCC([NH3+])C([O-])=O 85288
+CC(CC([NH3+])C([O-])=O)P(C)([O-])=O 85289
+CP(O)([O-])C(=O)CC([NH3+])C([O-])=O 85290
+CP(O)([O-])C1=C[C@]([NH3+])(CC1)C([O-])=O 85291
+CP(O)([O-])C1=C[C@]([NH3+])(CCC1)C(O)=O 85292
+CP(O)([O-])C1=C[C@]([NH3+])(CO1)C([O-])=O 85293
+CC(=N)P(O)(O)CC[C@H](N)C(O)=O 50174521
+N[C@@H](CCP(O)(O)C=N)C(O)=O 50174523
+N[C@@H](CCP(O)(O)C=O)C(O)=O 50174526
+CP(O)(=O)CC[C@H](N)C(O)=O 50174527
