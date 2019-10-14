@@ -1,15 +1,12 @@
-A Python implementation of Polypharmacology pipeline to generate a dataset of reference ligands (see Example/dataset.pdf), perform in silico target fishing on the dataset, identify similar compounds between 2 or more targets in the dataset etc. 
+A Python implementation of Polypharmacology pipeline (see https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-6-33) to generate a dataset of reference ligands, perform in silico target fishing on the dataset, identify similar compounds between two or more targets in the dataset etc. 
+
+Example folder provides a test case-study demonstrating polypharmacology in Kinases, and also provides the reference target dataset used. 
 
 Usage: python PolyPharm.py
 
 Required Packages: 
-	1) BLAST
+	1) Python2
+	2) BLAST
 	2) OpenBabel
 	3) RDKit
-
-	Also load py_packages when running on minerva.
-
-TO DO:
-1) Add circular fingerprint support to "Find compounds for my target(s)".
-
 
