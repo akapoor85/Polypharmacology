@@ -7,6 +7,6 @@ Usage: python PolyPharm.py
 Required Packages: 
 	1) Python2
 	2) BLAST
-	2) OpenBabel
-	3) RDKit
+	3) OpenBabel
+	4) RDKit
 
