@@ -4,7 +4,7 @@ Example folder provides a test case-study demonstrating polypharmacology in Kina
 
 Usage: python PolyPharm.py
 
-Required Packages: 
+Prerequsites: 
 	1) Python2
 	2) BLAST
 	3) OpenBabel
